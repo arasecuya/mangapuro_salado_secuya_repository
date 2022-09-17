@@ -1,3 +1,3 @@
-public class Calculation {
-	int result;
-}
+    public class Calculation {
+        int result;
+    }
