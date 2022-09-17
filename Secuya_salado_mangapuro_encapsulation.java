@@ -1,4 +1,4 @@
-package secuya_salado_mangapuro;
+package secuya_salado_mangapuro_encapsulation ;
 
 @author 1styrGroupB
  */
